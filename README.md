@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Datos del Estudiante
 | Apellido y Nombre | E-mail | GitHub |
 | :Brizuela | :Sofia | :popibri546@gmail.com |https://github.com/popibri546
@@ -11,3 +12,8 @@
 * **python_app/**: Aplicación de escritorio (POO).
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+=======
+Estación Meteorológica ProA 
+## Integrantes: BRIZUELA Sofia
+* Sensor de temperatura, humedad y presión.
+>>>>>>> 099798f7f394e4adfe9782328a1c0893c7d6d730
